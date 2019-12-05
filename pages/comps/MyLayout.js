@@ -8,8 +8,8 @@ const layoutStyle = {
 const Layout = props =>(
     <div style={layoutStyle}>
         <Header />
-        {/* {props.children} */}
-        {props.content}
+        {props.children}
+        {/* {props.content} */}
     </div>
 );
 export default Layout;
