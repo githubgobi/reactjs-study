@@ -20022,7 +20022,21 @@ var Header = function Header() {
       lineNumber: 12
     },
     __self: this
-  }, "About")));
+  }, "About")), __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
+    href: "/users/list",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 14
+    },
+    __self: this
+  }, __jsx("a", {
+    style: linkStyle,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 15
+    },
+    __self: this
+  }, "Users")));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Header);
@@ -20214,7 +20228,7 @@ _babel_runtime_corejs2_regenerator__WEBPACK_IMPORTED_MODULE_0___default.a.mark(f
 
 /***/ }),
 
-/***/ 2:
+/***/ 1:
 /*!*********************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2Fhome%2Fg-ah%2FDocuments%2FGobi%2Fstudy%2Freactjs-study%2Fpages%2Findex.js ***!
   \*********************************************************************************************************************************************/
@@ -20237,5 +20251,5 @@ module.exports = dll_5f137288facb1107b491;
 
 /***/ })
 
-},[[2,"static/runtime/webpack.js"]]]);
+},[[1,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=index.js.map
